@@ -1,5 +1,5 @@
 name = "veternitzz/progressbar"
-version = "1.0.0"
+version = "1.0.0-rc1"
 description = "The progress bar from pesde/toolchainlib ported to a pesde package."
 authors = ["Anthony LaPeter <anthonylapeter@gmail.com>"]
 repository = "https://github.com/veternitzz/progressbar"
