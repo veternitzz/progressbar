@@ -1,10 +1,10 @@
 name = "veternitzz/progressbar"
-version = "1.0.0"
+version = "1.0.1"
 description = "The progress bar from pesde/toolchainlib ported to a pesde package."
-authors = ["Anthony LaPeter <anthonylapeter@gmail.com>", "The Pesde Team <pesde@daimond113.com>"]
+authors = ["Anthony LaPeter <anthonylapeter@gmail.com>", "Erica Marigold <hi@devcomp.xyz>"]
 repository = "https://github.com/veternitzz/progressbar"
 license = "MIT"
-includes = ["lib.luau", "pesde.toml", "LICENSE", "README.md"]
+includes = ["lib.luau", "pesde.toml", "LICENSE", "README.md", "LICENSE-MIT"]
 
 [target]
 environment = "lune"
